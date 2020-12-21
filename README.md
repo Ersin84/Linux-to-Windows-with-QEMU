@@ -45,7 +45,7 @@ Then download official copy from https://www.microsoft.com/en-in/evalcenter/eval
 
 Script Line No. 39 :-
 
-sudo wget -P /mediabots http://161.97.143.58/WS2012R2.ISO
+sudo wget -P /mediabots http://161.97.143.58/WS2012R2.ISO.2
 
 Script Line No. 41 :-
 
